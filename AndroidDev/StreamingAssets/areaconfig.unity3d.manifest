@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 491259502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15c52eb9fc8e54db76dc7bdd59e273bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: baedefce1c3a59ef8a9442af500734c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Config/dbcountrys.json
+- Assets/Res/Config/dbcitys.json
+- Assets/Res/Config/dbprovinces.json
+- Assets/Bundles/Independent/AreaConfig.prefab
+- Assets/Res/Config/dbareas.json
+Dependencies: []

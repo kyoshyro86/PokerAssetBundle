@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2610227271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d23d96c4796b8fbb7e4794da7f2fd275
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4aedd87716d218e659a92217ef805ea6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68e95c3830cac43c0b74e147ad7ca853, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f825bb5ce93d6ab429dfa508444119b0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Emoji/emoji_11.prefab
+- Assets/Bundles/Emoji/emoji_2.prefab
+- Assets/Bundles/Emoji/emoji_4.prefab
+- Assets/Bundles/Emoji/emoji_9.prefab
+- Assets/Bundles/Emoji/emoji_12.prefab
+- Assets/Bundles/Emoji/emoji_5.prefab
+- Assets/Bundles/Emoji/emoji_1.prefab
+- Assets/Bundles/Emoji/emoji_8.prefab
+- Assets/Bundles/Emoji/emoji_3.prefab
+- Assets/Bundles/Emoji/emoji_6.prefab
+- Assets/Bundles/Emoji/emoji_10.prefab
+- Assets/Bundles/Emoji/emoji_7.prefab
+- Assets/Bundles/Emoji/emoji_3d.prefab
+Dependencies:
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_1.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_10.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_11.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_12.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_2.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_3.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_3d.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_4.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_5.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_6.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_7.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_8.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/emoji_9.unity3d

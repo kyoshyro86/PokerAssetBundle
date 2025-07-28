@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2272285040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 535625ed12c1f437a472f5152d2edc8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 261c564f7c387ec3222a35cd5583a5d5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Armature/Emoji/emoji_10/emoji_10_tex.json
+- Assets/Res/Armature/Emoji/emoji_10/emoji_10_Data.asset
+- Assets/Res/Armature/Emoji/emoji_10/emoji_10_ske.json
+- Assets/Res/Armature/Emoji/emoji_10/emoji_10_tex.png
+Dependencies: []

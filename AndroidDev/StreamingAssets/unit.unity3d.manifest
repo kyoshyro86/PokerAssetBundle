@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1040316372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7e062de06f0664d96936a67f969be15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c9c830936c9b094f1c2c8fbc9236586c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Unit.prefab
+Dependencies: []

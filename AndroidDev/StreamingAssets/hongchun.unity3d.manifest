@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2807518959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a596f5c097413db210ad7e018e0dbca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 261c564f7c387ec3222a35cd5583a5d5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Armature/expression/hongchun/hongchun_tex.png
+- Assets/Res/Armature/expression/hongchun/hongchun_Data.asset
+- Assets/Res/Armature/expression/hongchun/hongchun_tex.json
+- Assets/Res/Armature/expression/hongchun/hongchun_ske.json
+Dependencies: []

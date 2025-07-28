@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 822989378
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65126e4ea8c8cdd727b90fae9761354a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 261c564f7c387ec3222a35cd5583a5d5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Armature/allin/allin_tex.json
+- Assets/Res/Armature/allin/allin_Data.asset
+- Assets/Res/Armature/allin/allin_tex.png
+- Assets/Res/Armature/allin/allin_ske.json
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 129438435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5a8ae8f3032167ff6a1c76dcccf4004
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca637ba5617d79359be14e488ee64d4d
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Model/yaoyaole/yaoyaoleRT.renderTexture
+Dependencies: []

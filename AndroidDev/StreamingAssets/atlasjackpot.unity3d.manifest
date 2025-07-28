@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1183893430
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f74dcab1c9689a275debcfe97437242
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Atlas/JackPot/jp_6.png
+- Assets/Res/Atlas/JackPot/jp_9.png
+- Assets/Res/Atlas/JackPot/texas pot_1.png
+- Assets/Res/Atlas/JackPot/JACKPOT 1.png
+- Assets/Res/Atlas/JackPot/jp_4.png
+- Assets/Res/Atlas/JackPot/jp_px_st.png
+- Assets/Res/Atlas/JackPot/jp_8.png
+- Assets/Res/Atlas/JackPot/jp_3.png
+- Assets/Res/Atlas/JackPot/jp_hj_bg.png
+- Assets/Res/Atlas/JackPot/jp_5.png
+- Assets/Res/Atlas/JackPot/jp_px_hj.png
+- Assets/Res/Atlas/JackPot/texas pot.png
+- Assets/Res/Atlas/JackPot/jackpot.png
+- Assets/Res/Atlas/JackPot/jp_px_ths.png
+- Assets/Res/Atlas/JackPot/jp_2.png
+- Assets/Res/Atlas/JackPot/jp_0.png
+- Assets/Res/Atlas/JackPot/jp_hj.png
+- Assets/Res/Atlas/JackPot/BIGGEST WINNER.png
+- Assets/Res/Atlas/JackPot/jp_button_selected.png
+- Assets/Res/Atlas/JackPot/jp_7.png
+- Assets/Res/Atlas/JackPot/jp_1.png
+Dependencies: []

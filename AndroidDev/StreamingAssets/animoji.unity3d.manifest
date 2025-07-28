@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1217469201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59d0a906c8af6d1e64192a3852bde7f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4aedd87716d218e659a92217ef805ea6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68e95c3830cac43c0b74e147ad7ca853, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f825bb5ce93d6ab429dfa508444119b0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Animoji/allin.prefab
+- Assets/Bundles/Animoji/king.prefab
+- Assets/Bundles/Animoji/paizhao.prefab
+- Assets/Bundles/Animoji/stool.prefab
+- Assets/Bundles/Animoji/daodanboom.prefab
+- Assets/Bundles/Animoji/leishen.prefab
+- Assets/Bundles/Animoji/jidan.prefab
+- Assets/Bundles/Animoji/strong.prefab
+- Assets/Bundles/Animoji/hongchun.prefab
+- Assets/Bundles/Animoji/zhuoji.prefab
+- Assets/Bundles/Animoji/dantiao.prefab
+- Assets/Bundles/Animoji/beer.prefab
+- Assets/Bundles/Animoji/xiexielaoban.prefab
+- Assets/Bundles/Animoji/zhadan.prefab
+- Assets/Bundles/Animoji/dushen.prefab
+- Assets/Bundles/Animoji/newAllin.prefab
+- Assets/Bundles/Animoji/Armature_Allin.prefab
+- Assets/Bundles/Animoji/xiangyan.prefab
+- Assets/Bundles/Animoji/shayu.prefab
+- Assets/Bundles/Animoji/crying.prefab
+- Assets/Bundles/Animoji/daoshui.prefab
+- Assets/Bundles/Animoji/weak.prefab
+- Assets/Bundles/Animoji/fanqie.prefab
+- Assets/Bundles/Animoji/jiatelin.prefab
+- Assets/Bundles/Animoji/jiatelinhuoyan.prefab
+- Assets/Bundles/Animoji/dianzan.prefab
+- Assets/Bundles/Animoji/pijiu.prefab
+- Assets/Bundles/Animoji/aa.prefab
+Dependencies:
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/armature_allin.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/daodanboom.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/daoshui.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/dianzan.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/fanqie.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/hongchun.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/jidan.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/newallin.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/paizhao.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/pijiu.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/shayu.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/zhadan.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/zhuoji.unity3d

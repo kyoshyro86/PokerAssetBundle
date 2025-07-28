@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 219058892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90de6f21177da6c44c96b1854d6bb8cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 261c564f7c387ec3222a35cd5583a5d5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Armature/expression/daodanboom/daodanboom_tex.json
+- Assets/Res/Armature/expression/daodanboom/daodanboom_ske.json
+- Assets/Res/Armature/expression/daodanboom/daodanboom_Data.asset
+- Assets/Res/Armature/expression/daodanboom/daodanboom_tex.png
+Dependencies: []

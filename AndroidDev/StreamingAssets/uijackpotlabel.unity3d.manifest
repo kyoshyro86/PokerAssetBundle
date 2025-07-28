@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3492200814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b595b2d78b7056311bf4ff41c530bc75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 270bc4e8975f49b6b79734330edb4600
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/UI/UIJackPotLabel.prefab
+Dependencies:
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlascommon.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlasjackpot.unity3d

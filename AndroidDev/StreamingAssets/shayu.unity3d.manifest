@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3047083522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2addb8878900a7adfcf22f109a2ac86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 261c564f7c387ec3222a35cd5583a5d5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Armature/expression/shayu/shayu_tex.json
+- Assets/Res/Armature/expression/shayu/shayu_tex.png
+- Assets/Res/Armature/expression/shayu/shayu_Data.asset
+- Assets/Res/Armature/expression/shayu/shayu_ske.json
+Dependencies: []

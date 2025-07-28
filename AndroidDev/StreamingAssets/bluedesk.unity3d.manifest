@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2352386121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d9cc6468138f2b507c69d53b7623ac2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7e2894ffb0cc5e3d1bbddb6c9b7ff789
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/BlueDesk.prefab
+Dependencies: []

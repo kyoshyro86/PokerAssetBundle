@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1565044589
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54a28c6e3d334e9d3832697b976786cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Atlas/UIClub/list_icon_jijin_chonhgzhi.png
+- Assets/Res/Atlas/UIClub/images_lianmeng_kongbaiye.png
+- Assets/Res/Atlas/UIClub/tribe_icon.png
+- Assets/Res/Atlas/UIClub/list_icon_jijin_fafang.png
+- Assets/Res/Atlas/UIClub/icon_menbzhu.png
+- Assets/Res/Atlas/UIClub/list_icon_bianji.png
+- Assets/Res/Atlas/UIClub/icon_list_jijin_mangzhujibie.png
+- Assets/Res/Atlas/UIClub/images_chuangjianzhe.png
+- Assets/Res/Atlas/UIClub/images_menu_xialacaidan_bg.png
+- Assets/Res/Atlas/UIClub/img_iconbg.png
+- Assets/Res/Atlas/UIClub/lianmeng_bg.png
+Dependencies: []
