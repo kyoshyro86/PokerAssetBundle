@@ -1,1 +1,0 @@
-{"Android":"1.1.1","AndroidUrl":"https://kyoshyro86.github.io/PokerAssetBundle/crazypoker.apk","ApkName":"crazypoker.apk","ApkSize":0,"IOS":"1.1.1","IOSUrl":"https://kyoshyro86.github.io/PokerAssetBundle/","Msg":"","IOSAppStore":null,"IsAppStore":false,"CheckRes":false}
