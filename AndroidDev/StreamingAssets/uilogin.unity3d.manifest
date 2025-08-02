@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2538275552
+CRC: 1597582019
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c5e9417ecff24d7459dcbb781d874bab
+    Hash: e4515b1109f87c92a01c794f7c9ba988
   TypeTreeHash:
     serializedVersion: 2
     Hash: 14748fc5a017ae4110b90d549b14903c
@@ -71,4 +71,3 @@ Assets:
 Dependencies:
 - C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlascommon.unity3d
 - C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlaslogin.unity3d
-- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlasuitexas.unity3d

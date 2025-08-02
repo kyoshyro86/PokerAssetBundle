@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2120065798
+CRC: 3275697578
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -590,8 +590,7 @@ AssetBundleManifest:
       Name: uilogin.unity3d
       Dependencies:
         Dependency_0: atlascommon.unity3d
-        Dependency_1: atlasuitexas.unity3d
-        Dependency_2: atlaslogin.unity3d
+        Dependency_1: atlaslogin.unity3d
     Info_142:
       Name: uiclub_infocontact.unity3d
       Dependencies:
