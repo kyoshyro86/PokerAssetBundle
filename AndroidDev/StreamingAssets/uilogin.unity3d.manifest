@@ -3,7 +3,7 @@ CRC: 2538275552
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2b0342fd2f657bae1cd1a471202d918e
+    Hash: c5e9417ecff24d7459dcbb781d874bab
   TypeTreeHash:
     serializedVersion: 2
     Hash: 14748fc5a017ae4110b90d549b14903c
@@ -69,6 +69,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/UI/UILogin.prefab
 Dependencies:
-- C:/WORKING/FREELANCE/POKER_KINGFISHER/PokerNew/./Release/Android/StreamingAssets/atlascommon.unity3d
-- C:/WORKING/FREELANCE/POKER_KINGFISHER/PokerNew/./Release/Android/StreamingAssets/atlaslogin.unity3d
-- C:/WORKING/FREELANCE/POKER_KINGFISHER/PokerNew/./Release/Android/StreamingAssets/atlasuitexas.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlascommon.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlaslogin.unity3d
+- C:/WORKING/FREELANCE/POKER_KINGFISHER/Poker2/Poker/./Release/Android/StreamingAssets/atlasuitexas.unity3d
